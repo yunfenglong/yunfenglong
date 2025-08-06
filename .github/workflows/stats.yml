@@ -1,8 +1,13 @@
 name: Generate Stats
 
 on:
+  push:
+    branches:
+      - main
+
   schedule: # execute every day at 18:00 UTC
     - cron: "0 18 * * *"
+    
   workflow_dispatch:
 
 permissions:
