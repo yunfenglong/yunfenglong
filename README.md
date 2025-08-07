@@ -45,7 +45,7 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" height="250" alt="stats graph"  />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="full" alt="stats graph"  />
 </div>
 
 <!-- <div align="center">
